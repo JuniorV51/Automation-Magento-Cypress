@@ -3,3 +3,6 @@ node_modules/
 
 # Ignorar arquivos de ambiente com dados sensíveis (como o .env)
 .env
+
+# Ignorar o arquivo de anotações
+Anotação.txt
