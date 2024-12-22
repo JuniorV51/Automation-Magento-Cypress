@@ -1,0 +1,7 @@
+//botãoCadastrar: ' [type="submit"]',
+
+//seletores por classe: .nomeClasse
+        //seletores por id: #nomeID
+        //Seletores por  data-testid="nomeId";
+        // data-test-id-"nomeId"
+        //seletores por atributos: type="button"
